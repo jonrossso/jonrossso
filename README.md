@@ -41,15 +41,13 @@ I'm a passionate Cloud Engineer with a keen interest in cloud technologies and d
 
 ### **:file_folder: Projects**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonrossso&theme=tokyonight&repo=azure-database-migration562)](https://github.com/jonrossso/azure-database-migration562)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonrossso&theme=tokyonight&repo=multinational-retail-data-centralisation324)](https://github.com/jonrossso/multinational-retail-data-centralisation324)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonrossso&theme=tokyonight&repo=azure-database-migration)](https://github.com/jonrossso/azure-database-migration)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonrossso&theme=tokyonight&repo=multinational-retail-data-centralisation)](https://github.com/jonrossso/multinational-retail-data-centralisation)
 
 ----
 
 ### **:bar_chart: Stats**
 
-<center>
 [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonrossso&theme=tokyonight)](https://github.com/jonrossso)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jonrossso&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/jonrossso)
-</center>
