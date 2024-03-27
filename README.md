@@ -16,7 +16,7 @@
 
 ### **:star: About Me**
 
-I'm a multi-skilled Analyst / Software and Cloud Engineer with a keen interest in data management cloud technologies. My journey in tech has been marked by a strong focus on Python and SQL, and I have used my abilities to  contribute to and drive success in projects using Azure and AWS platforms.
+I'm a multi-skilled Software and Cloud Engineer / Analyst. My journey in tech has been marked by a strong focus on Python and SQL, and I have used my abilities to  contribute to and drive success in projects using Azure and AWS platforms.
 
 - :seedling: I'm continuously updating my skillset and am currently preparing for the Microsoft Azure Fundamentals AZ-900 Examination. Outside of work, you'll find me exploring new technologies, playing around with code or watching super random tech reviews on YouTube.
 - :link: Here's my LinkedIn:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonrossso/)
